@@ -1,0 +1,15 @@
+<Project>
+  <PropertyGroup>
+    <LangVersion>Preview</LangVersion>
+    <ErrorReport>send</ErrorReport>
+    <NullableContextOptions>enable</NullableContextOptions>
+    <Version>0.1.0-preview.1</Version>
+    <Authors>Biscuit Tin</Authors>
+    <Copyright>© Biscuit Tin 2019</Copyright>
+    <PackageProjectUrl>https://github.com/BiscuitTin/Aleister</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/BiscuitTin/Aleister.git</RepositoryUrl>
+    <NeutralLanguage>en-US</NeutralLanguage>
+    <Features>strict</Features>
+    <SuppressNETCoreSdkPreviewMessage>true</SuppressNETCoreSdkPreviewMessage>
+  </PropertyGroup>
+</Project>
